@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calculate.csproj", "{790151BE-92FF-4F69-BDB3-1ABD7454D318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooKeeper", "ZooKeeper\ZooKeeper.csproj", "{02EC848D-A37C-4534-A472-42CD7F5CC428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{790151BE-92FF-4F69-BDB3-1ABD7454D318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{790151BE-92FF-4F69-BDB3-1ABD7454D318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{790151BE-92FF-4F69-BDB3-1ABD7454D318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EC848D-A37C-4534-A472-42CD7F5CC428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EC848D-A37C-4534-A472-42CD7F5CC428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EC848D-A37C-4534-A472-42CD7F5CC428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EC848D-A37C-4534-A472-42CD7F5CC428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
