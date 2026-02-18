@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPI_CSHARP", "IPI_CSHARP\IPI_CSHARP.csproj", "{790151BE-92FF-4F69-BDB3-1ABD7454D318}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calculate.csproj", "{790151BE-92FF-4F69-BDB3-1ABD7454D318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
