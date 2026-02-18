@@ -1,0 +1,14 @@
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/bin/Debug/net10.0/IPI_CSHARP
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/bin/Debug/net10.0/IPI_CSHARP.deps.json
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/bin/Debug/net10.0/IPI_CSHARP.runtimeconfig.json
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/bin/Debug/net10.0/IPI_CSHARP.dll
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/bin/Debug/net10.0/IPI_CSHARP.pdb
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.AssemblyInfoInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.AssemblyInfo.cs
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.csproj.CoreCompileInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.dll
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/refint/IPI_CSHARP.dll
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.pdb
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/IPI_CSHARP.genruntimeconfig.cache
+/home/thomas/Developpement/IPI_CSHARP/IPI_CSHARP/obj/Debug/net10.0/ref/IPI_CSHARP.dll
