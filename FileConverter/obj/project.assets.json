@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\IPI_CSHARP\\ZooKeeper\\ZooKeeper.csproj",
-      "projectName": "ZooKeeper",
-      "projectPath": "D:\\Dev\\IPI_CSHARP\\ZooKeeper\\ZooKeeper.csproj",
+      "projectUniqueName": "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj",
+      "projectName": "FileConverter",
+      "projectPath": "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\IPI_CSHARP\\ZooKeeper\\obj\\",
+      "outputPath": "D:\\Dev\\IPI_CSHARP\\FileConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

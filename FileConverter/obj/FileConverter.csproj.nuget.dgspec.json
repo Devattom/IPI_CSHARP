@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\IPI_CSHARP\\Calculate\\Calculate.csproj": {}
+    "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\IPI_CSHARP\\Calculate\\Calculate.csproj": {
+    "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\IPI_CSHARP\\Calculate\\Calculate.csproj",
-        "projectName": "Calculate",
-        "projectPath": "D:\\Dev\\IPI_CSHARP\\Calculate\\Calculate.csproj",
+        "projectUniqueName": "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj",
+        "projectName": "FileConverter",
+        "projectPath": "D:\\Dev\\IPI_CSHARP\\FileConverter\\FileConverter.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\IPI_CSHARP\\Calculate\\obj\\",
+        "outputPath": "D:\\Dev\\IPI_CSHARP\\FileConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

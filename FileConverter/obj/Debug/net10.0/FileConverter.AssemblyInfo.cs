@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Calculate")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FileConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69352228f158e9e0679a89b192965a3d92ccd26")]
-[assembly: System.Reflection.AssemblyProductAttribute("Calculate")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Calculate")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f47a03041b165c559abc2c420fb1d8da856f3d")]
+[assembly: System.Reflection.AssemblyProductAttribute("FileConverter")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FileConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
