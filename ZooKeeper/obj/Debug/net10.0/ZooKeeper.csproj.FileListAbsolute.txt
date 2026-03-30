@@ -1,0 +1,15 @@
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/bin/Debug/net10.0/ZooKeeper
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/bin/Debug/net10.0/ZooKeeper.deps.json
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/bin/Debug/net10.0/ZooKeeper.runtimeconfig.json
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/bin/Debug/net10.0/ZooKeeper.dll
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/bin/Debug/net10.0/ZooKeeper.pdb
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.AssemblyInfoInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.AssemblyInfo.cs
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.csproj.CoreCompileInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.sourcelink.json
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.dll
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/refint/ZooKeeper.dll
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.pdb
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ZooKeeper.genruntimeconfig.cache
+/home/thomas/Developpement/IPI_CSHARP/ZooKeeper/obj/Debug/net10.0/ref/ZooKeeper.dll

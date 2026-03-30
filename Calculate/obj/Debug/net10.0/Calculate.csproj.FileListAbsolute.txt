@@ -1,0 +1,15 @@
+/home/thomas/Developpement/IPI_CSHARP/Calculate/bin/Debug/net10.0/Calculate
+/home/thomas/Developpement/IPI_CSHARP/Calculate/bin/Debug/net10.0/Calculate.deps.json
+/home/thomas/Developpement/IPI_CSHARP/Calculate/bin/Debug/net10.0/Calculate.runtimeconfig.json
+/home/thomas/Developpement/IPI_CSHARP/Calculate/bin/Debug/net10.0/Calculate.dll
+/home/thomas/Developpement/IPI_CSHARP/Calculate/bin/Debug/net10.0/Calculate.pdb
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.GeneratedMSBuildEditorConfig.editorconfig
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.AssemblyInfoInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.AssemblyInfo.cs
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.csproj.CoreCompileInputs.cache
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.sourcelink.json
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.dll
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/refint/Calculate.dll
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.pdb
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/Calculate.genruntimeconfig.cache
+/home/thomas/Developpement/IPI_CSHARP/Calculate/obj/Debug/net10.0/ref/Calculate.dll
