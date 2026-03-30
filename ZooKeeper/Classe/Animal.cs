@@ -8,7 +8,7 @@ public abstract class Animal : Keepable
     
     public abstract string MakeSound();
     
-    public string MoveCage(Animal animal, Cage cage)
+    public string MoveCage(Cage cage)
     {
         this.Cage = cage;
         return "L'animal a été mis dans la cage " + cage.Name;

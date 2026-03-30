@@ -22,7 +22,9 @@ Console.WriteLine($"Nom de la giraffe : {giraffeName}");
 
 Console.WriteLine("Elle ira dans la cage 1");
 
-zoo.AddAnimal(new Giraffe(giraffeName, cage1.Name));
+var giraffe = new Giraffe(giraffeName, cage1.Name);
+giraffe.Cage = cage1;
+zoo.AddAnimal(giraffe);
 
 Console.WriteLine("Ajoutons un éléphant, donnez lui un nom :");
 
@@ -34,7 +36,9 @@ Console.WriteLine($"Nom de l'éléphant : {elephantName}");
 
 Console.WriteLine("il va dans la cage 2");
 
-zoo.AddAnimal(new Elephant(elephantName, cage2.Name));
+var elephant = new Elephant(elephantName, cage2.Name);
+elephant.Cage = cage2;
+zoo.AddAnimal(elephant);
 
 Console.WriteLine("Ajoutons un singe, donnez lui un nom :");
 
@@ -46,7 +50,9 @@ Console.WriteLine($"Nom du singe : {monkeyName}");
 
 Console.WriteLine("il va dans la cage 3");
 
-zoo.AddAnimal(new Monkey(monkeyName, cage3.Name));
+var monkey = new Monkey(monkeyName, cage3.Name);
+monkey.Cage = cage3;
+zoo.AddAnimal(monkey);
 
 Console.WriteLine("Voici la liste des animaux :");
 
@@ -66,6 +72,49 @@ if (choice == null || choice == "2")
 }
 
 Console.WriteLine("Quel animal voulez-vous bouger ?");
+
+for (int i = 0; i < zoo.Animals.Count; i++)
+{
+    Console.WriteLine($"{i + 1}. {zoo.Animals[i].Name} (cage : {zoo.Animals[i].Cage.Name})");
+}
+
+var animalChoice = Console.ReadLine();
+if (animalChoice == null) { return; }
+
+if (!int.TryParse(animalChoice, out int animalIndex) || animalIndex < 1 || animalIndex > zoo.Animals.Count)
+{
+    Console.WriteLine("Choix invalide !");
+    return;
+}
+animalIndex--;
+
+var selectedAnimal = zoo.Animals[animalIndex];
+
+Console.WriteLine($"Vous avez choisi : {selectedAnimal.Name}");
+Console.WriteLine("Dans quelle cage voulez-vous le déplacer ?");
+
+for (int i = 0; i < zoo.Cages.Count; i++)
+{
+    Console.WriteLine($"{i + 1}. {zoo.Cages[i].Name}");
+}
+
+var cageChoice = Console.ReadLine();
+if (cageChoice == null) { return; }
+
+if (!int.TryParse(cageChoice, out int cageIndex) || cageIndex < 1 || cageIndex > zoo.Cages.Count)
+{
+    Console.WriteLine("Choix invalide !");
+    return;
+}
+cageIndex--;
+
+var selectedCage = zoo.Cages[cageIndex];
+
+var result = selectedAnimal.MoveCage(selectedCage);
+Console.WriteLine(result);
+
+Console.WriteLine("Voici la liste mise à jour :");
+zoo.PrintAnimals();
 
 
 
