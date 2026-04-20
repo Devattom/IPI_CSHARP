@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConverter", "FileConver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance", "Performance\Performance.csproj", "{A3465694-6D90-4809-B0B1-A6FEB4329142}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimiser", "Optimiser\Optimiser.csproj", "{A4C06BAD-4F7D-4D8B-AB2C-9B322BCB19DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A3465694-6D90-4809-B0B1-A6FEB4329142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3465694-6D90-4809-B0B1-A6FEB4329142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3465694-6D90-4809-B0B1-A6FEB4329142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C06BAD-4F7D-4D8B-AB2C-9B322BCB19DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C06BAD-4F7D-4D8B-AB2C-9B322BCB19DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C06BAD-4F7D-4D8B-AB2C-9B322BCB19DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C06BAD-4F7D-4D8B-AB2C-9B322BCB19DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
